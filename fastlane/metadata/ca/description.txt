@@ -1,0 +1,20 @@
+Chikiside és una pàgina d'un sol cop al dia. Obre el full d'avui, acaba un petit acte imprès o escriu una línia, i arxiva'l. És per a qui farà un full, no per començar un programa de trenta dies.
+
+• Un full al dia d'un cicle fix de vuit fulls
+• «Obre» gira la carta d'avui i mostra la cita i la microacció
+• «Tinta una línia» conserva l'acte imprès o accepta una línia escrita, amb una lectura Directa, Mesurada o Reflexiva
+• «Tinta» arxiva l'acte i marca la cel·la de l'any com a Conservada
+• «Omet» deixa la cel·la buida sense afectar la ratxa
+• «Pela» desfà la Tinta o l'Omissió d'avui abans de la mitjanit local
+• Cadència: un recompte en curs dels dies Conservats que Omet no trenca
+• Baralla, un cicle de només lectura dels vuit fulls amb recomptes de Conservats i Omesos
+• Col·lecció de fulls tintats, amb un recompte
+• Graella de l'any amb cel·les Conservades, Omeses, Obertes i Tancades
+• Exportació de la col·lecció des de Configuració
+• Exportació del quadern des de Configuració
+• Vibració activada o desactivada des de Configuració
+• Contacte des de Configuració
+• Tornar a fer la introducció des de Configuració
+• Esborrar la col·lecció en aquest dispositiu
+
+La graella de l'any marca el dia com a Conservat, o deixa la cel·la buida si omets. Les dades es queden en aquest dispositiu.

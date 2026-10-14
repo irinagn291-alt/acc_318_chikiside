@@ -1,0 +1,10 @@
+[
+  {"index": 0, "word": "Quiet", "quote": "One page is enough.", "microAction": "Write one sentence about today."},
+  {"index": 1, "word": "Walk", "quote": "The block counts.", "microAction": "Walk around the block once."},
+  {"index": 2, "word": "Water", "quote": "Fill the glass first.", "microAction": "Drink one glass of water."},
+  {"index": 3, "word": "Call", "quote": "A short call still counts.", "microAction": "Send one message you have been holding."},
+  {"index": 4, "word": "Shelf", "quote": "Put one thing back.", "microAction": "Return one object to its place."},
+  {"index": 5, "word": "Name", "quote": "Say who you noticed.", "microAction": "Write the name of one person you appreciated."},
+  {"index": 6, "word": "Light", "quote": "Open the curtain.", "microAction": "Let daylight into one room."},
+  {"index": 7, "word": "Close", "quote": "End one open loop.", "microAction": "Finish one small task you already started."}
+]

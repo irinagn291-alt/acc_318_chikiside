@@ -1,0 +1,20 @@
+Chikiside is a once-a-day page. Open today's broadside, finish one small printed deed or type a line, and file it. It is for someone who will do one leaf, not start a thirty-day program.
+
+• One broadside a day from a fixed eight-leaf cycle
+• "Open" turns today's card face up and shows the quote and micro-action
+• "Ink a line" keeps the printed deed or accepts a typed line, with a Direct, Measured, or Reflective reading
+• "Ink" files that deed and marks the year cell Kept
+• "Waive" leaves the cell empty with no streak hit
+• "Peel" undoes today's Ink or Waive before local midnight
+• Cadence: a running count of Kept days that Waive does not break
+• Deck, a read-only cycle of the eight leaves with Kept and Waived tallies
+• Collection of inked leaves, with a count
+• Year grid of Kept, Waived, Opened, and Shut cells
+• Export of the collection from Settings
+• Export chapbook from Settings
+• Haptics on or off from Settings
+• Contact from Settings
+• Re-run onboarding from Settings
+• Erase the collection on this device
+
+The year grid marks that day Kept, or leaves the cell empty if you Waive. Data stays on this device.

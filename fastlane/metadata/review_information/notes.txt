@@ -1,0 +1,21 @@
+The app asks for no permissions. No system permission prompt appears, and the build has no usage-description string.
+
+There is no login, no in-app purchase, no account deletion flow, and no App Tracking Transparency prompt. A person can type a private deed in "Ink a line". It is not posted for others. There is no public feed, comments, report, or block.
+
+Chikiside is a once-a-day page for someone who will do one leaf, not start a thirty-day program. Today's broadside shows one word from a fixed eight-leaf cycle. The person finishes the printed micro-action or types a line, then files the day as Kept or leaves the year cell empty with Waive.
+
+No credentials or demo account are needed. A cold launch shows a dark screen with no wordmark, then today's spread. The name under the icon is "Chikiside". If onboarding has not been finished, three pages cover the spread and can be swiped. "Continue" is full width at the bottom. "Skip" sits under it and finishes from any page. Page 1 headline is "One broadside a day." and the line is "Open today's page. The micro-action is the whole job." Page 2 headline is "Ink the deed." and the line is "Finish the line, then Ink. The year cell files Kept." Page 3 headline is "Waive leaves it empty." and the line is "Skip without a streak hit. Peel before midnight if you mis-tap." "Continue" on the last page, or "Skip" on any page, finishes onboarding and leaves the spread usable. Onboarding does not return unless "Onboarding" is used in Settings.
+
+On a device, the first home is a shut card and there is no pre-inked collection. The waiting line is "Today's card is waiting. Open the broadside." Tap "Open". The status line becomes "Opened. Ink the deed." The field placeholder is "Ink a line" and it is already filled with the printed micro-action. Tap "Ink" to file the deed. The status line becomes "Kept. Deed filed." Tap "Waive" to skip at once. The status line becomes "Waived. Cell empty." "Peel" then shows and returns the card to "Opened. Ink the deed." while the day is still today.
+
+On a first Simulator run, onboarding is already finished and today's card is already open, so "Ink" is ready. That run also files four earlier days as Kept, one earlier day as Waived, and leaves one earlier day Shut.
+
+The top row is "Deck", "Collection", "Year", and "Settings". Each sheet has "Close". Deck is titled "Deck" with subtitle "Cycle order. Read only." Collection is titled "Collection". Year is titled "Year" with subtitle "Kept, Waived, Shut." Today is first and already selected. Settings is titled "Settings". When nothing is inked, "Export" and "Export chapbook" are dimmed. After a leaf is inked, "Export" opens the system share sheet with the collection text, and "Export chapbook" opens the system share sheet with a PDF whose first lines are "Chikiside" and "Chapbook". "Haptics" is a switch that starts on. "Contact" opens the support page in the system browser. "Onboarding" shows the three pages again and does not erase data. "Erase" asks "Erase the collection?" with the line "Inked leaves on this device are deleted." and buttons "Cancel" and "Erase".
+
+Data stays on this device. Settings says "Export stays on this device." "Contact" opens the support page in the system browser.
+
+The interface is English only. Dates and counts follow the device locale. The day boundary is local midnight in the device time zone. The same screens are used in every region. The app is portrait only on iPhone and iPad and requires iOS 17.0.
+
+No licence or regulated-industry paperwork applies. This is a personal daily log in the Lifestyle category, not a medical, financial, or other regulated service.
+
+The app is a personal log only and gives no recommendations. It does not show health, medical, or product-health information, and it has no citations. "Walk around the block once." and "Drink one glass of water." are printed micro-actions on two Deck leaves, the same kind of line as the other six.

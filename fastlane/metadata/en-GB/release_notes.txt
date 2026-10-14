@@ -1,0 +1,3 @@
+Version 1.0 is the first release of Chikiside.
+
+Open today's broadside, finish one printed deed or type a line in "Ink a line", then "Ink" or "Waive". "Peel" takes back today's mark before local midnight. Deck, Collection, Year, and Settings open from the home row. Export and Export chapbook share the collection from this device. Haptics, Contact, Onboarding, and Erase are in Settings.
